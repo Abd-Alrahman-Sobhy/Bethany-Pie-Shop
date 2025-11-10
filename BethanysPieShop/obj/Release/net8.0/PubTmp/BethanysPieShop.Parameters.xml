@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="BethanysPieShop" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^E:\\Playground\\c\#\\BethanysPieShop\\BethanysPieShop\\obj\\Release\\net8\.0\\PubTmp\\Out\\$" />
+  </parameter>
+  <parameter name="BethanysPieShop.Models.BethanysPieShopDbContext" description="" value="Server=DESKTOP-CNFKIOD\SQLEXPRESS;Database=DBTest;Trusted_Connection=True;MultipleActiveResultSets=true;TrustServerCertificate=True" tags="dbfullsql">
+    <parameterEntry kind="ProviderPath" scope="dbfullsql" match="^E:\\Playground\\c\#\\BethanysPieShop\\BethanysPieShop\\obj\\Release\\net8\.0\\PubTmp\\EFSQLScripts\\BethanysPieShop\.Models\.BethanysPieShopDbContext\.sql$" />
+  </parameter>
+</parameters>
