@@ -23,8 +23,6 @@ A full-featured **online pie shop** built with **ASP.NET Core MVC**, featuring a
 - [Project Structure](#-project-structure)
 - [Getting Started](#-getting-started)
 - [Configuration](#-configuration)
-- [Contributing](#-contributing)
-- [License](#-license)
 
 ---
 
